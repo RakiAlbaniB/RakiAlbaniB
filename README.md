@@ -1,41 +1,42 @@
-<!-- 🎞️ Animated GIF Section -->
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=true" width="400" alt="Animated banner">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="400" alt="Pac-Man gif">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=true" alt="Animated banner" style="width:700px; height:200px; border-radius:15px; object-fit: cover;">
 </p>
 
 ---
 
-<h2 align="center">👾 About Me</h2>
+## ✨🌐 About Me 🌐✨
+
+Hi there! I'm **Raki**, a university student who’s passionate about **pixel art design** using 🧩 **Aseprite**.  
+Currently diving into the world of **JavaScript**, **C#**, **Lua**, and exploring **Machine Learning**.  
+
+I love combining **art + code** to create interactive and aesthetic digital experiences 🎨💡  
 
 <p align="center">
-  Hi there! I'm <b>Raki</b>, a university student who’s passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>.<br>
-  Currently diving into the world of <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>.<br><br>
-  I love combining <b>art + code</b> to create interactive and aesthetic digital experiences 🎨💡
-</p>
-
-<p align="center">
-  📱 <b>Find me on:</b><br>
-  🎵 <a href="https://www.tiktok.com/@jaysheesh.00" target="_blank">TikTok</a> |
-  📸 <a href="https://www.instagram.com/rki.albn" target="_blank">Instagram</a> |
-  📌 <a href="https://www.pinterest.com/rakialbani2004" target="_blank">Pinterest</a>
-</p>
-
----
-
-<h2 align="center">🧠 Technology & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+  「 Find me on 」
+<br>
+<a href="https://www.tiktok.com/@jaysheesh.00" style="color:#00BFFF;">🎵 TikTok</a> •
+<a href="https://www.instagram.com/rki.albn" style="color:#00BFFF;">📸 Instagram</a> •
+<a href="https://www.pinterest.com/rakialbani2004" style="color:#00BFFF;">📌 Pinterest</a>
 </p>
 
 ---
 
-<p align="center"><i>⭐️ "Art is where code meets imagination."</i></p>
+## 💿 Tech Stack & Tools 💿
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-00A9FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-00A9FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.unzq.eu.org/badge/CSS3-00A9FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-00A9FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Unity-BE00FF?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-BE00FF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-BE00FF?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-BE00FF?style=for-the-badge&logo=aseprite&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <code>✨ "Art is where code meets imagination." ✨</code>
+</p>
