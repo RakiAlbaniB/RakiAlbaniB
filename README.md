@@ -24,8 +24,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 💿 Tech Stack & Tools 💿
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-00A9FF?style=for-the-badge&logo=javascript&logoColor=white" />
