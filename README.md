@@ -6,10 +6,10 @@
 
 ## ✨🌐 About Me 🌐✨
 
-Hi there! I'm **Raki**, a university student who’s passionate about **pixel art design** using 🧩 **Aseprite**.  
-Currently diving into the world of **JavaScript**, **C#**, **Lua**, and exploring **Machine Learning**.  
-
-I love combining **art + code** to create interactive and aesthetic digital experiences 🎨💡  
+- 🎓 I'm **Raki**, a university student.
+- 🎨 Passionate about **pixel art design** using 🧩 **Aseprite**.
+- 👨‍💻 Currently diving into **JavaScript**, **C#**, **Lua**, and exploring **Machine Learning**.
+- 💡 I love combining **art + code** to create interactive and aesthetic digital experiences!
 
 <p align="center">
   「 Find me on 」
@@ -26,7 +26,7 @@ I love combining **art + code** to create interactive and aesthetic digital expe
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-00A9FF?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-00A9FF?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.unzq.eu.org/badge/CSS3-00A9FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00A9FF?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-00A9FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Unity-BE00FF?style=for-the-badge&logo=unity&logoColor=white" />
