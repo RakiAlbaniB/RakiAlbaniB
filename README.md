@@ -42,7 +42,7 @@
 </p>
 
 <p align="right">
-<img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:80px; height:40px;">
+<img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:120px; height:80px;">
 </p>
 
 ---
