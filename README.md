@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <code>✨ "Art is where code meets imagination." ✨</code>
+  <code>✨ "Let's keep in touch, we got this! 🙌" ✨</code>
 </p>
 
 <p align="center">
