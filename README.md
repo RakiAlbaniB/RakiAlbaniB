@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="URL_GIF_BANNER_ANDA_DI_SINI" width="400" alt="Animated banner">
+  <img src="<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/2fb4cf1a-dbc6-432a-913e-329bebce2b4c" />
+" width="400" alt="Animated banner">
 </p>
 
 ---
