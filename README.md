@@ -37,11 +37,18 @@
   <img src="https://img.shields.io/badge/Aseprite-BE00FF?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
+---
+##  🔮 stats 🔮
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RakiAlbaniB&theme=nightowl&show_icons=true&hide_border=false&count_private=true" alt="RakiAlbaniB's Stats" width="400" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakiAlbaniB&theme=nightowl&show_icons=true&hide_border=false&layout=compact" alt="RakiAlbaniB's Top Languages" width="260" />&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakiAlbaniB&theme=nightowl&hide_border=false" alt="RakiAlbaniB's Streak" width="260" />
 </p>
+
+---
+
+## 🍇 contribute 🍇
+
 
 
 ---
