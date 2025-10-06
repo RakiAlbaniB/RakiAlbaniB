@@ -42,3 +42,11 @@
 <p align="center">
   <code>✨ "Art is where code meets imagination." ✨</code>
 </p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/output/pacman-contribution-graph.svg">
+</picture>
+</p>
