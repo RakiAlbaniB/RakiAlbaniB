@@ -5,12 +5,11 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:100px; height:100px; margin-right: 80px; vertical-align: middle;">
   <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto; vertical-align: middle;">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:100px; height:60px; margin-left: 80px; vertical-align: middle;">
 </p>
 
 <p align="center">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:100px; height:100px; margin-right: 80px; vertical-align: middle;">
   🎓 I'm <b>Raki</b>, a university student. <br>
   🎨 Passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>. <br>
   👨‍💻 Currently diving into <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>. <br>
@@ -42,6 +41,7 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:100px; height:60px; margin-left: 80px; vertical-align: middle;">
   <code>✨ "Art is where code meets imagination." ✨</code>
 </p>
 
