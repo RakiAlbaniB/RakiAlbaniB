@@ -1,52 +1,41 @@
+<!-- 🎞️ Animated GIF Section -->
 <p align="center">
-  <img src="<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/2fb4cf1a-dbc6-432a-913e-329bebce2b4c" />
-" width="400" alt="Animated banner">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=true" width="400" alt="Animated banner">
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="400" alt="Pac-Man gif">
 </p>
 
 ---
 
-## 🔮 About Me
-
-Hi there! I'm **Raki**, a university student who’s passionate about **pixel art design** using 🧩 **Aseprite**.  
-Currently diving into the world of **JavaScript**, **C#**, **Lua**, and exploring **Machine Learning**.  
-
-I love combining **art + code** to create interactive and aesthetic digital experiences 🎨💡  
+<h2 align="center">👾 About Me</h2>
 
 <p align="center">
-  「 Find me on 」
-<br>
-<a href="https://www.tiktok.com/@jaysheesh.00" style="color:#C6AEE7;">🎵 TikTok</a> •
-<a href="https://www.instagram.com/rki.albn" style="color:#C6AEE7;">📸 Instagram</a> •
-<a href="https://www.pinterest.com/rakialbani2004" style="color:#C6AEE7;">📌 Pinterest</a>
+  Hi there! I'm <b>Raki</b>, a university student who’s passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>.<br>
+  Currently diving into the world of <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>.<br><br>
+  I love combining <b>art + code</b> to create interactive and aesthetic digital experiences 🎨💡
+</p>
+
+<p align="center">
+  📱 <b>Find me on:</b><br>
+  🎵 <a href="https://www.tiktok.com/@jaysheesh.00" target="_blank">TikTok</a> |
+  📸 <a href="https://www.instagram.com/rki.albn" target="_blank">Instagram</a> |
+  📌 <a href="https://www.pinterest.com/rakialbani2004" target="_blank">Pinterest</a>
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+<h2 align="center">🧠 Technology & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-8D6EC7?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-8D6EC7?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-8D6EC7?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-8D6EC7?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Unity-3E2C68?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-3E2C68?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-3E2C68?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-3E2C68?style=for-the-badge&logo=aseprite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
 ---
 
-## 👾 Play a Quick Game!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1oMDU1MmZ5MWN0azVkb3B5eW14N3Vpa3p3Nmt2YXNqeDNmdzR2MCZlcD12MV9pbnRlcm5hbF9naWZzX2NyaWF0ZWRfZWJhY2hjZjJiMDBhMjMyYSZjdD1n/W8K6jJ5D9J6jU725M8/giphy.gif" alt="Pac-Man Game" width="400" /> <br>
-  <i>(Klik gambar untuk bermain!)</i>
-</p>
-
----
-
-<p align="center">
-💜 <i>"Art is where code meets imagination."</i>
-</p>
+<p align="center"><i>⭐️ "Art is where code meets imagination."</i></p>
