@@ -23,10 +23,6 @@
 <a href="https://www.pinterest.com/rakialbani2004" style="color:#00BFFF;">📌 Pinterest</a>
 </p>
 
-<p align="left">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:80px; height:80px;"> 
-</p>
-
 ---
 ## 💿 Tech Stack & Tools 💿
 <p align="center">
@@ -39,10 +35,6 @@
   <img src="https://img.shields.io/badge/Godot-BE00FF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-BE00FF?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-BE00FF?style=for-the-badge&logo=aseprite&logoColor=white" />
-</p>
-
-<p align="right">
-<img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:120px; height:80px;">
 </p>
 
 ---
