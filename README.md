@@ -48,7 +48,9 @@
 ---
 
 ## 🍇 contribute 🍇
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/main/dist/github-contribution-grid-snake.svg" alt="Snake contribution graph">
+</p>
 
 
 ---
