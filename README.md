@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_GIF_ANDA_DI_SINI" width="600" alt="Animated banner">
+  <img src="URL_GIF_BANNER_ANDA_DI_SINI" width="400" alt="Animated banner">
 </p>
 
 ---
@@ -40,8 +40,7 @@ I love combining **art + code** to create interactive and aesthetic digital expe
 ## 👾 Play a Quick Game!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1oMDU1MmZ5MWN0azVkb3B5eW14N3Vpa3p3Nmt2YXNqeDNmdzR2MCZlcD12MV9pbnRlcm5hbF9naWZzX2NyaWF0ZWRfZWJhY2hjZjJiMDBhMjMyYSZjdD1n/W8K6jJ5D9J6jU725M8/giphy.gif" alt="Pac-Man Game" width="300" />
-  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1oMDU1MmZ5MWN0azVkb3B5eW14N3Vpa3p3Nmt2YXNqeDNmdzR2MCZlcD12MV9pbnRlcm5hbF9naWZzX2NyaWF0ZWRfZWJhY2hjZjJiMDBhMjMyYSZjdD1n/W8K6jJ5D9J6jU725M8/giphy.gif" alt="Pac-Man Game" width="400" /> <br>
   <i>(Klik gambar untuk bermain!)</i>
 </p>
 
