@@ -5,29 +5,15 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto; vertical-align: middle;">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto;">
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="15%" align="center" valign="top">
-      <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Cat GIF" style="width:100px; height:100px;">
-    </td>
-    
-    <td width="70%" align="center">
-      <p align="center">
-        🎓 I'm <b>Raki</b>, a university student. <br>
-        🎨 Passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>. <br>
-        👨‍💻 Currently diving into <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>. <br>
-        💡 I love combining <b>art + code</b> to create interactive and aesthetic digital experiences!
-      </p>
-    </td>
-    
-    <td width="15%" align="center" valign="top">
-      <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Frieren GIF" style="width:100px; height:60px;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🎓 I'm <b>Raki</b>, a university student. <br>
+  🎨 Passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>. <br>
+  👨‍💻 Currently diving into <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>. <br>
+  💡 I love combining <b>art + code</b> to create interactive and aesthetic digital experiences!
+</p>
 
 <p align="center">
   「 Find me on 」
@@ -35,6 +21,10 @@
 <a href="https://www.tiktok.com/@jaysheesh.00" style="color:#00BFFF;">🎵 TikTok</a> •
 <a href="https://www.instagram.com/rki.albn" style="color:#00BFFF;">📸 Instagram</a> •
 <a href="https://www.pinterest.com/rakialbani2004" style="color:#00BFFF;">📌 Pinterest</a>
+</p>
+
+<p align="left">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:80px; height:80px;"> 
 </p>
 
 ---
@@ -49,6 +39,10 @@
   <img src="https://img.shields.io/badge/Godot-BE00FF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-BE00FF?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-BE00FF?style=for-the-badge&logo=aseprite&logoColor=white" />
+</p>
+
+<p align="right">
+<img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:80px; height:40px;">
 </p>
 
 ---
