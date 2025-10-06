@@ -4,12 +4,16 @@
 
 ---
 
-## ✨🌐 About Me 🌐✨
+<p align="center">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true alt="About Me Title" style="width:500px; height:auto;">
+</p>
 
-- 🎓 I'm **Raki**, a university student.
-- 🎨 Passionate about **pixel art design** using 🧩 **Aseprite**.
-- 👨‍💻 Currently diving into **JavaScript**, **C#**, **Lua**, and exploring **Machine Learning**.
-- 💡 I love combining **art + code** to create interactive and aesthetic digital experiences!
+<p align="center">
+  🎓 I'm <b>Raki</b>, a university student. <br>
+  🎨 Passionate about <b>pixel art design</b> using 🧩 <b>Aseprite</b>. <br>
+  👨‍💻 Currently diving into <b>JavaScript</b>, <b>C#</b>, <b>Lua</b>, and exploring <b>Machine Learning</b>. <br>
+  💡 I love combining <b>art + code</b> to create interactive and aesthetic digital experiences!
+</p>
 
 <p align="center">
   「 Find me on 」
