@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true alt="About Me Title" style="width:500px; height:auto;">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true alt="About Me Title" style="width:100px; height:auto;">
 </p>
 
 <p align="center">
