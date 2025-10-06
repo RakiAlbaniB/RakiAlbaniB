@@ -1,0 +1,42 @@
+# Nama workflow yang akan muncul di tab "Actions" GitHub
+name: Generate Contribution Snake
+
+on:
+  # Menjalankan skrip secara otomatis setiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+  # Memungkinkan Anda menjalankan skrip ini secara manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    # Menggunakan sistem operasi Ubuntu terbaru untuk menjalankan skrip
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah 1: Mengunduh (checkout) kode dari repositori Anda
+      - uses: actions/checkout@v3
+
+      # Langkah 2: Menjalankan aksi untuk membuat animasi ular
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          # Ganti dengan username GitHub Anda
+          github_user_name: RakiAlbaniB
+          
+          # Menentukan file output dan kustomisasi warna ungu
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#7F00FF&color_dots=#CDB4DB,#B19CDA,#9881D9,#7F66D4,#664BC3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7F00FF&color_dots=#CDB4DB,#B19CDA,#9881D9,#7F66D4,#664BC3
+
+      # Langkah 3: Melakukan commit dan push file gambar yang baru dibuat ke repositori
+      - name: Push to repo
+        run: |
+          # Konfigurasi user git untuk bot actions
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Menambahkan semua file di dalam folder 'dist'
+          git add dist
+          # Membuat commit dengan pesan, atau keluar jika tidak ada perubahan
+          git commit -m "Generate Contribution Snake" || exit 0
+          # Mendorong perubahan ke branch utama
+          git push
