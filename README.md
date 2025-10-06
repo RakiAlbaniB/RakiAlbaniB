@@ -5,9 +5,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:200px; height:80px; margin-right: 40px; vertical-align: middle;">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:60px; height:60px; margin-right: 40px; vertical-align: middle;">
   <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto; vertical-align: middle;">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:100px; height:50px; margin-left: 40px; vertical-align: middle;">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:60px; height:40px; margin-left: 40px; vertical-align: middle;">
 </p>
 
 <p align="center">
