@@ -4,11 +4,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Left Image" style="width:60px; height:60px; margin-right: 40px; vertical-align: middle;">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto; vertical-align: middle;">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Right Image" style="width:60px; height:40px; margin-left: 40px; vertical-align: middle;">
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/cat(2).gif?raw=true" alt="Cat GIF" style="width:100px; height:100px;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/ABOUT%20ME%20(1).gif?raw=true" alt="About Me Title" style="width:250px; height:auto;">
+    </td>
+    <td align="right">
+      <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/frieren%20and%20himmel.gif?raw=true" alt="Frieren and Himmel GIF" style="width:100px; height:60px;">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   🎓 I'm <b>Raki</b>, a university student. <br>
