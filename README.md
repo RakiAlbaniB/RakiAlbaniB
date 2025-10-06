@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=trueI" width="600" alt="Animated banner">
+  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=trueI" width="300" alt="Animated banner">
 </p>
 
 ---
