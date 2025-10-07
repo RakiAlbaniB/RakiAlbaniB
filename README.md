@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RakiAlbaniB&label=Profile%20views&color=9f55ff&style=flat" alt="RakiAlbaniB's visitor" />
+  <img src="https://komarev.com/ghpvc/?username=RakiAlbaniB&label=visitor&color=9f55ff&style=flat" alt="RakiAlbaniB's visitor" />
 </p>
