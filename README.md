@@ -46,14 +46,7 @@
 </p>
 
 ---
-## 🍇 repository project 🍇
-
-
----
-
-<p align="center">
-  <code>✨ "Let's keep in touch, we got this! 🙌" ✨</code>
-</p>
+## 🍇 my contribute 🍇
 
 <p align="center">
 <picture>
@@ -61,4 +54,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RakiAlbaniB/RakiAlbaniB/output/pacman-contribution-graph.svg">
 </picture>
+</p>
+
+---
+
+<p align="center">
+  <code>✨ "Let's keep in touch, we got this! 🙌" ✨</code>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RakiAlbaniB&label=Profile%20views&color=9f55ff&style=flat" alt="RakiAlbaniB's profile views" />
 </p>
