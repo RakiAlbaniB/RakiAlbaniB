@@ -40,7 +40,7 @@
 ---
 ## 🔮 stats 🔮
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakiAlbaniB&show_icons=true&theme=tokyonight&hide_border=true" alt="RakiAlbaniB GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RakiAlbaniB&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
   <br>
   <img src="https://streak-stats.demolab.com?user=RakiAlbaniB&theme=tokyonight&hide_border=true" alt="RakiAlbaniB Streak Stats" />
 </p>
