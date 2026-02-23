@@ -40,7 +40,7 @@
 ---
 ##  🔮 stats 🔮
 <p
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakiAlbaniB&theme=nightowl&hide_border=false" alt="RakiAlbaniB's Streak" width="260" />
+  <img src="https://streak-stats.demolab.com?user=JAYSHI.&theme=tokyonight&hide_border=true" alt="JAYSHI.'s GitHub Stats" />
 </p>
 
 ---
