@@ -1,4 +1,3 @@
-<br>
 ## 👋 Halo, Saya Raki Albani
 **Front-End Developer | UI/UX Enthusiast**
 
