@@ -4,7 +4,7 @@
 
 <br>
 
-## 🔴⚫ Hi there, I'm Raki Albani 👋
+##  Hi there, I'm Raki Albani 👋
 **Front-End Developer | UI/UX Enthusiast**
 
 An Informatics Engineering student at Budi Luhur University specializing in user interface development. I love blending **art and code** to build functional and aesthetically pleasing digital experiences.
