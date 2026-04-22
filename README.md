@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/RakiAlbaniB/RakiAlbaniB/blob/main/foto_github.gif?raw=true" alt="Animated banner" width="100%" style="border-radius:15px; object-fit: cover;">
-</div>
-
-<br>
 
 ## Hi there! I'm Raki 👋
 
