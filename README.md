@@ -4,12 +4,12 @@
 
 <br>
 
-##  ᴴⁱ ᵗʰᵉʳᵉ, ᴵ'ᵐ ᴿᵃᵏⁱ ᴬˡᵇᵃⁿⁱ 👋
-**ᶠʳᵒⁿᵗ⁻ᴱⁿᵈ ᴰᵉᵛᵉˡᵒᵖᵉʳ | ᵁᴵ/ᵁˣ ᴱⁿᵗʰᵘˢⁱᵃˢᵗ**
+## 🔴⚫ Hi there, I'm Raki Albani 👋
+**Front-End Developer | UI/UX Enthusiast**
 
-ᴬⁿ ᴵⁿᶠᵒʳᵐᵃᵗⁱᶜˢ ᴱⁿᵍⁱⁿᵉᵉʳⁱⁿᵍ ˢᵗᵘᵈᵉⁿᵗ ᵃᵗ ᴮᵘᵈⁱ ᴸᵘʰᵘʳ ᵁⁿⁱᵛᵉʳˢⁱᵗʸ ˢᵖᵉᶜⁱᵃˡⁱᶻⁱⁿᵍ ⁱⁿ ᵘˢᵉʳ ⁱⁿᵗᵉʳᶠᵃᶜᵉ ᵈᵉᵛᵉˡᵒᵖᵐᵉⁿᵗ. ᴵ ˡᵒᵛᵉ ᵇˡᵉⁿᵈⁱⁿᵍ ᵃʳᵗ ᵃⁿᵈ ᶜᵒᵈᵉ ᵗᵒ ᵇᵘⁱˡᵈ ᶠᵘⁿᶜᵗⁱᵒⁿᵃˡ ᵃⁿᵈ ᵃᵉˢᵗʰᵉᵗⁱᶜᵃˡˡʸ ᵖˡᵉᵃˢⁱⁿᵍ ᵈⁱᵍⁱᵗᵃˡ ᵉˣᵖᵉʳⁱᵉⁿᶜᵉˢ.
+An Informatics Engineering student at Budi Luhur University specializing in user interface development. I love blending **art and code** to build functional and aesthetically pleasing digital experiences.
 
-- 🎓 **Education:** Informatics Engineering, Budi Luhur University
+- 🎓 **Education:** Informatics Engineering, Budi Luhur University (Expected 2026).
 - 🚀 **Focus:** Front-End Development & UI/UX Design.
 - 📬 **Contact:** [LinkedIn](https://linkedin.com/in/raki-albani) • [Portfolio](https://raki-albani.vercel.app) • [Email](mailto:Raki.Albani2004@gmail.com)
 
