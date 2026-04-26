@@ -9,7 +9,7 @@
 
 An Informatics Engineering student at Budi Luhur University specializing in user interface development. I love blending **art and code** to build functional and aesthetically pleasing digital experiences.
 
-- 🎓 **Education:** Informatics Engineering, Budi Luhur University).
+- 🎓 **Education:** Informatics Engineering, Budi Luhur University.
 - 🚀 **Focus:** Front-End Development & UI/UX Design.
 - 📬 **Contact:** [LinkedIn](www.linkedin.com/in/raki-albani-hello) • [Portfolio](https://portofolioraki.vercel.app/) • [Email](mailto:Raki.Albani2004@gmail.com)
 
